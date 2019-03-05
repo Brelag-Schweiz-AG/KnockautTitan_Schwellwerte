@@ -1,0 +1,14 @@
+{
+    "id": "{B3113900-DDA2-190E-65CA-45367873E4FF}",
+    "name": "SchwellWerteSWW",
+    "type": 3,
+    "vendor": "BRELAG",
+    "aliases":
+        [
+            "SchwellWerteSWW"
+        ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SW"
+}
