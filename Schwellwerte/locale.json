@@ -1,8 +1,8 @@
 {
     "translations": {
         "de": {
-            "lower": "Wert unten (0)",
-            "upper": "Wert oben (1)",
+            "lower": "Inaktiv",
+            "upper": "Aktiv",
             "Off": "Aus",
             "On": "An"
         }
